@@ -1,0 +1,9 @@
+"STORE_ID","STORE_NAME","src_PRODUCT_ID","src_PRODUCT_NAME","TOTAL_REVENUE","TOTAL_QUANTITY_SOLD"
+"101","Store 101","P_017","Product 017",9321,41
+"102","Store 102","P_001","Product 001",27908,106
+"103","Store 103","P_002","Product 002",17330,77
+"104","Store 104","P_001","Product 001",13270,48
+"105","Store 105","P_001","Product 001",14989,59
+"106","Store 106","P_003","Product 003",21821,90
+"107","Store 107","P_003","Product 003",19757,98
+"108","Store 108","P_001","Product 001",16788,70
