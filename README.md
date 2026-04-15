@@ -1,4 +1,4 @@
-# 🧾 Sales ETL Data Engineering Project (Informatica IICS)
+# 🧾 Sales ETL Data Engineering Project (TEAM IICS TITANS - Informatica IICS)
 
 ## 📌 Overview
 
@@ -157,8 +157,8 @@ Applied the following rules:
 
 ## 👨‍💻 Author
 
-**Rushikesh Doke**
-CSE (AI & ML) Student
+**Rushikesh Doke, Sanket Urade, Ankur Katkamwar, Shubham Girase**
+CSE (AI & ML) Students
 GH Raisoni College of Engineering
 
 ---
